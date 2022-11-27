@@ -11,6 +11,6 @@
 
 
 ##Visitor Count
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge]([https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/repos/Dayvison45)](https://badges.pufler.dev)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
