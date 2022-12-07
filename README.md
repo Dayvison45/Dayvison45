@@ -1,5 +1,5 @@
 # 💫 About Me:
-📕- Graduation:  Graduating in Systems Analysis and Development at Cruzeiro do Sul University- Study:  on Coursera, Dio, self-taught<br>📝 - Skills: HTML5, CSS, JavaScript, Node JS, ReactJS Tailwind css...<br>📒 - Projects: MAnuscritos, MovieList...<br>📊 - How I work: Learn more and seek to improve<br>🎂 - Age: 20 years old<br>
+ Graduation:  Graduating in Systems Analysis and Development at Cruzeiro do Sul University- Study:  on Coursera, Dio, self-taught<br> Skills: HTML5, CSS, JavaScript, Node JS, ReactJS Tailwind css...<br> Projects: MAnuscritos, MovieList...<br> How I work: Learn more and seek to improve<br> Age: 20 years old<br>
 
 [Movielist](https://genuine-pavlova-1b3b43.netlify.app/)
 
