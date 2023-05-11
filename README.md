@@ -1,12 +1,12 @@
-<h2 align="left">- 🌱 I’m currently learning Algorithms and data estructures</h2>
+- 🌱 I’m currently learning Algorithms and data estructures
 
-###
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/dayvison-da-paz/
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DayvisonPaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=DayvisonPaz&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DayvisonPaz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 💬 Ask me about react, js, node, express, mongodb
+
+- 📫 How to reach me dayvisondapazpereira@outlook.com
+
+
 ###
 
 <div align="center">
