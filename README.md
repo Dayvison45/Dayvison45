@@ -1,4 +1,5 @@
-<div align="center">- 🌱 I’m currently learning Algorithms and data estructures
+<div> 
+-🌱 I’m currently learning Algorithms and data estructures
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/dayvison-da-paz/
 
