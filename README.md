@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Amanhã</h3>
+<h3 align="left">👩‍💻  Sobre </h3>
 
 ###
 
